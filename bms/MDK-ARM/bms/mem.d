@@ -1,0 +1,16 @@
+bms\mem.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/src/mem.c
+bms\mem.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rthw.h
+bms\mem.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtthread.h
+bms\mem.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/bsp/_template/rtconfig.h
+bms\mem.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/components/finsh/finsh_config.h
+bms\mem.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtdebug.h
+bms\mem.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtdef.h
+bms\mem.o: D:\Keil\Keil5_MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+bms\mem.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtservice.h
+bms\mem.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/components/finsh/finsh_api.h
+bms\mem.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/components/finsh/finsh.h
+bms\mem.o: D:\Keil\Keil5_MDK\ARM\ARMCC\Bin\..\include\stdio.h
+bms\mem.o: D:\Keil\Keil5_MDK\ARM\ARMCC\Bin\..\include\ctype.h
+bms\mem.o: D:\Keil\Keil5_MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+bms\mem.o: D:\Keil\Keil5_MDK\ARM\ARMCC\Bin\..\include\stdint.h
+bms\mem.o: D:\Keil\Keil5_MDK\ARM\ARMCC\Bin\..\include\string.h
