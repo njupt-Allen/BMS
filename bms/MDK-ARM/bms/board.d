@@ -8,6 +8,7 @@ bms\board.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtdef.
 bms\board.o: D:\Keil\Keil5_MDK\ARM\ARMCC\Bin\..\include\stdarg.h
 bms\board.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/include/rtservice.h
 bms\board.o: ../Middlewares/Third_Party/RealThread_RTOS_RT-Thread/components/finsh/finsh_api.h
+bms\board.o: ../Core/Inc/main.h
 bms\board.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
 bms\board.o: ../Core/Inc/stm32f1xx_hal_conf.h
 bms\board.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
@@ -33,3 +34,4 @@ bms\board.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
 bms\board.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 bms\board.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 bms\board.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+bms\board.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h

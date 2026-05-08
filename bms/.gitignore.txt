@@ -1,0 +1,21 @@
+# STM32CubeIDE / Keil MDK
+Debug/
+Release/
+*.bin
+*.elf
+*.hex
+*.map
+*.lst
+*.o
+*.d
+*.axf
+*.dep
+*.crf
+*.lnp
+*.sct
+*.bak
+*.uvgui*
+*.uvoptx
+*.uvprojx
+*.mxproject
+.build/
