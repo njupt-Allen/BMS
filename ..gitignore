@@ -1,0 +1,38 @@
+# Keil 编译输出
+*.uvoptx
+*.uvguix
+*.axf
+*.hex
+*.lib
+*.o
+*.obj
+*.d
+*.crf
+*.htm
+*.bak
+*.lnp
+*.sct
+*.map
+*.lst
+*.dep
+*.tra
+*.iex
+*.i
+*.s
+BUILD/
+Output/
+Listing/
+RTE/
+bms/Output/
+bms/Listing/
+
+# RT-Thread
+cconfig.h
+rtconfig.h
+
+# 系统/编辑器
+.DS_Store
+.idea/
+.vscode/
+*.user
+*.plg
